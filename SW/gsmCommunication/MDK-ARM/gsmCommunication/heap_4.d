@@ -1,0 +1,13 @@
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+gsmcommunication\heap_4.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gsmcommunication\heap_4.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+gsmcommunication\heap_4.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+gsmcommunication\heap_4.o: ../Inc/FreeRTOSConfig.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gsmcommunication\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

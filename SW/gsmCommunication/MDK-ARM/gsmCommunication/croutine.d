@@ -1,0 +1,14 @@
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gsmcommunication\croutine.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+gsmcommunication\croutine.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+gsmcommunication\croutine.o: ../Inc/FreeRTOSConfig.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+gsmcommunication\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,16 @@
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+gsmcommunication\tasks.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+gsmcommunication\tasks.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gsmcommunication\tasks.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+gsmcommunication\tasks.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+gsmcommunication\tasks.o: ../Inc/FreeRTOSConfig.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+gsmcommunication\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/StackMacros.h

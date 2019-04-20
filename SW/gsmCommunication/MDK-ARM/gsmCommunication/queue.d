@@ -1,0 +1,15 @@
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+gsmcommunication\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+gsmcommunication\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\string.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gsmcommunication\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+gsmcommunication\queue.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+gsmcommunication\queue.o: ../Inc/FreeRTOSConfig.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+gsmcommunication\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

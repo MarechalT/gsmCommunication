@@ -1,0 +1,12 @@
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+gsmcommunication\port.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+gsmcommunication\port.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+gsmcommunication\port.o: ../Inc/FreeRTOSConfig.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+gsmcommunication\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
